@@ -387,7 +387,7 @@ grid.newpage()
 grid.draw(pl1)
 ```
 
-![](NOAA-Storm-Analysis_files/figure-html/plot 1-1.png)<!-- -->
+![](figure/plot 1-1.png)<!-- -->
 
 - From above, it is observed that with respect to **_Fatalities_**, the most harmful event is the **Tornado** followed by **Excessive Heat** and **Flash Flood**.
 
@@ -434,7 +434,7 @@ grid.newpage()
 grid.draw(pl2)
 ```
 
-![](NOAA-Storm-Analysis_files/figure-html/plot 2-1.png)<!-- -->
+![](figure/plot 2-1.png)<!-- -->
 
 - From above, it can be observed that the two lists of top 10 events having greatest economic consequences with respect to the **_Property Damage_** and **_Crop Damage_** are considerably different.
 
